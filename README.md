@@ -2,4 +2,4 @@
 
 **A clock prototype**  
 
-&copy Gavin Suntop 2011.
+&copy; Gavin Suntop 2011.
